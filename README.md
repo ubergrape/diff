@@ -30,5 +30,5 @@ This is essentially the same as a del+ins
 
 ## License
 
-  LGPLv3
+  MIT
 

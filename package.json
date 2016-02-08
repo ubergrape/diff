@@ -19,6 +19,6 @@
   "scripts": {
     "test": "make test-coveralls"
   },
-  "license": "LGPLv3"
   "repository": "git://github.com/ubergrape/diff.git",
+  "license": "MIT"
 }
