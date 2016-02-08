@@ -14,7 +14,7 @@ http://www.mathertel.de/Diff/ViewSrc.aspx for more inspiration
 ## Installation
 
     $ npm install diff
-    $ component install Swatinem/diff
+    $ component install ubergrape/diff
 
 ## Usage
 

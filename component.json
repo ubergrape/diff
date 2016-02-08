@@ -1,6 +1,6 @@
 {
   "name": "diff",
-  "repo": "Swatinem/diff",
+  "repo": "ubergrape/diff",
   "version": "0.0.1",
   "description": "implementation of myers diff algorithm",
   "keywords": [],

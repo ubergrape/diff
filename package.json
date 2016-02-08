@@ -19,6 +19,6 @@
   "scripts": {
     "test": "make test-coveralls"
   },
-  "repository": "git://github.com/Swatinem/diff.git",
   "license": "LGPLv3"
+  "repository": "git://github.com/ubergrape/diff.git",
 }
